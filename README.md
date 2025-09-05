@@ -12,9 +12,6 @@
 
 <h3 align="left">Activities On Github</h3>
 
-[![Hamed-244's GitHub | Stats](https://stats.quine.sh/Hamed-244/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hamed-244)
-[![Hamed-244's Stack Overflow | Stats](https://stats.quine.sh/Hamed-244/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hamed-244)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/hamed__fakoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamed__fakoori" height="30" width="40"/></a>
